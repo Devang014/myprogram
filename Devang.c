@@ -1,4 +1,5 @@
 #include<stdio.h>//program to calculae value of  number raised to any power
+//bahut badhiya code change
 int main(){
 int y=1,x,i,n;
 printf("enter the number\n");//tatti
